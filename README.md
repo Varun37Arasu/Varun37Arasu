@@ -1,50 +1,60 @@
 # 💫 About Me:  
 <h1 align="center">👨‍💻 Hi there, I'm Varun Urs M S! 👋</h1>
 
-#
+------------------------------------------------
+
+###
+<br clear="both">
+
+![Alt text](<VR Gamer created in After Effects.gif>)
+
+<div align="center">
+  <img height="500" width="100" src="blob:https://in.pinterest.com/c8532dcb-9481-47fb-8fb4-4e0fc6c1f113" />
+</div>
+
+  <img height="500" width="100vw" src="https://i.imgflip.com/65efzo.gif"  />
+###
+
+
+------------------------------------------------
+
+###
+<br clear="both">
 <h5 align="left">🎓 Final Year Computer Science Engineering (CSE) Student at BMS College of Engineering (BMSCE) 🏛️<br><br>🔧 Passionate about Technology | Natural Problem-Solver 🧠<br><br>🌟 Aspiring to Create Solutions and Drive Change in the World of Computer Science 💡<br><br>🚀 Throughout my academic journey, I've developed a knack for understanding complex concepts and applying them to real-world challenges.<br><br>Let's connect and collaborate to create a better tomorrow! 🤝 #ComputerScience #Technology #Innovation #ProblemSolver #FutureTechLeader 🚀</h5>
-#
+
+###
+
+------------------------------------------------
+
 
 # 📊 GitHub Stats:
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-
-
-
 <br clear="both">
-
-
-
-###
-
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/ba/da/91/bada91c2a594f6d02d8e6fe96bdeee0e.gif"  />
-</div>
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=varun37arasu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=varun37arasu&locale=en&mode=daily&theme=vue&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varun37arasu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 
+<br clear="both"> 
+<br clear="both">
+
+------------------------------------------------
+
+### ✍️ Random Dev Quote
+<div align="center">
+<br clear="both">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+</div>
+
+<br clear="both">
+
+------------------------------------------------
+
+### ✍️ Tech Stacks 
+<br clear="both">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -122,22 +132,11 @@
 ###
 
 <br clear="both">
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=varun37arasu.varun37arasu&left_color=teal&left_text=Profile Views"  />
-</div>
-
-###
-
-
-
-###
-
 <br clear="both">
 
-###
-# Social Media:
+------------------------------------------------
 
+# Social Media:
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
@@ -150,15 +149,25 @@
 
 ###
 
+<br clear="both">
+<br clear="both">
+
+------------------------------------------------
 
 ## 🏆 GitHub Trophies
 <div align="center">
+  
 ![](https://github-profile-trophy.vercel.app/?username=varun37arasu&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 </div>
 
+<br clear="both">
+<br clear="both">
+
+------------------------------------------------
 
 ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Varun Urs M S)
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]
+  (https://buymeacoffee.com/VarunUrsMS)
   
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/VarunUrs7) 
 
