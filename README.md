@@ -1,29 +1,25 @@
-# 💫 About Me:
+# 💫 About Me:  
+<h1 align="center">👨‍💻 Hi there, I'm Varun Urs M S! 👋</h1>
 
+#
+<h5 align="left">🎓 Final Year Computer Science Engineering (CSE) Student at BMS College of Engineering (BMSCE) 🏛️<br><br>🔧 Passionate about Technology | Natural Problem-Solver 🧠<br><br>🌟 Aspiring to Create Solutions and Drive Change in the World of Computer Science 💡<br><br>🚀 Throughout my academic journey, I've developed a knack for understanding complex concepts and applying them to real-world challenges.<br><br>Let's connect and collaborate to create a better tomorrow! 🤝 #ComputerScience #Technology #Innovation #ProblemSolver #FutureTechLeader 🚀</h5>
+#
 
 # 📊 GitHub Stats:
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=varun37arasu&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Varun Urs M S)
-  
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/VarunUrs7) 
 
-------------------------------------------------
 
 <br clear="both">
 
-<h1 align="center">👨‍💻 Hi there, I'm Varun Urs M S! 👋</h1>
+
 
 ###
 
-<h5 align="left">🎓 Final Year Computer Science Engineering (CSE) Student at BMS College of Engineering (BMSCE) 🏛️<br><br>🔧 Passionate about Technology | Natural Problem-Solver 🧠<br><br>🌟 Aspiring to Create Solutions and Drive Change in the World of Computer Science 💡<br><br>🚀 Throughout my academic journey, I've developed a knack for understanding complex concepts and applying them to real-world challenges.<br><br>Let's connect and collaborate to create a better tomorrow! 🤝 #ComputerScience #Technology #Innovation #ProblemSolver #FutureTechLeader 🚀</h5>
 
 ###
 
@@ -31,6 +27,10 @@
 
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/ba/da/91/bada91c2a594f6d02d8e6fe96bdeee0e.gif"  />
+</div>
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
@@ -129,17 +129,14 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/varun37arasu/varun37arasu/output/snake.svg" alt="Snake animation" />
-
 ###
+# Social Media:
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -153,14 +150,17 @@
 
 ###
 
-<div align="right">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ak&theme=radical" alt="Layout with last medium posts"  />
-</div>
 
-###
-
+## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+![](https://github-profile-trophy.vercel.app/?username=varun37arasu&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 </div>
 
-###
+
+## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Varun Urs M S)
+  
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/VarunUrs7) 
+
+------------------------------------------------
+
