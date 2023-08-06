@@ -7,19 +7,11 @@
 <br clear="both">
 
 ![Alt text](<VR Gamer created in After Effects.gif>)
-
-<div align="center">
-  <img height="500" width="100" src="blob:https://in.pinterest.com/c8532dcb-9481-47fb-8fb4-4e0fc6c1f113" />
-</div>
-
-  <img height="500" width="100vw" src="https://i.imgflip.com/65efzo.gif"  />
+  
 ###
-
-
 ------------------------------------------------
 
 ###
-<br clear="both">
 <h5 align="left">🎓 Final Year Computer Science Engineering (CSE) Student at BMS College of Engineering (BMSCE) 🏛️<br><br>🔧 Passionate about Technology | Natural Problem-Solver 🧠<br><br>🌟 Aspiring to Create Solutions and Drive Change in the World of Computer Science 💡<br><br>🚀 Throughout my academic journey, I've developed a knack for understanding complex concepts and applying them to real-world challenges.<br><br>Let's connect and collaborate to create a better tomorrow! 🤝 #ComputerScience #Technology #Innovation #ProblemSolver #FutureTechLeader 🚀</h5>
 
 ###
