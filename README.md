@@ -1,10 +1,4 @@
-# 💫 About Me:  
-<h1 align="center">👨‍💻 Hi there, I'm Varun Urs M S! 👋</h1>
-
-------------------------------------------------
-
-###
-<br clear="both">
+# 💫 👨‍💻 Hi there, I'm Varun Urs M S! 👋
 
 ![Alt text](<VR Gamer created in After Effects.gif>)
   
@@ -23,7 +17,12 @@
 <br clear="both">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=varun37arasu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+
+  
   <img src="https://streak-stats.demolab.com?user=varun37arasu&locale=en&mode=daily&theme=vue&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+ <br clear="both">
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varun37arasu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -33,7 +32,7 @@
 
 ------------------------------------------------
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 <div align="center">
 <br clear="both">
   
